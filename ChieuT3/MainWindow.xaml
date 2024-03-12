@@ -10,6 +10,6 @@
     Height="450"
     mc:Ignorable="d">
     <Grid>
-        <TextBlock FontSize="100">Xin chao</TextBlock>
+        <TextBlock FontSize="190" Foreground="red">Hello</TextBlock>
     </Grid>
 </Window>
