@@ -1,0 +1,15 @@
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\bin\Debug\ChieuT3.exe.config
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\bin\Debug\ChieuT3.exe
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\bin\Debug\ChieuT3.pdb
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\obj\Debug\ChieuT3.csproj.AssemblyReference.cache
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\obj\Debug\MainWindow.g.cs
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\obj\Debug\App.g.cs
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\obj\Debug\ChieuT3_MarkupCompile.cache
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\obj\Debug\ChieuT3_MarkupCompile.lref
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\obj\Debug\MainWindow.baml
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\obj\Debug\ChieuT3.g.resources
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\obj\Debug\ChieuT3.Properties.Resources.resources
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\obj\Debug\ChieuT3.csproj.GenerateResource.cache
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\obj\Debug\ChieuT3.csproj.CoreCompileInputs.cache
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\obj\Debug\ChieuT3.exe
+C:\Users\vovan\OneDrive\Documents\A.HocKy2.Nam2\Lap_Trinh_Tren_Windows\ChieuT3\ChieuT3\obj\Debug\ChieuT3.pdb
