@@ -8,11 +8,9 @@
     Title="MainWindow"
     Width="1000"
     Height="650"
-    Background="Aqua"
+    Background="Black"
     mc:Ignorable="d">
     <StackPanel>
-        <TextBlock FontSize="190" Foreground="red">Hello</TextBlock>
-        <TextBlock FontSize="100">Xin chào mọi người</TextBlock>
-        <TextBlock FontSize="100">Tôi là Trí</TextBlock>
+        <TextBlock FontSize="100" Foreground="Orange">Tôi là Trí</TextBlock>
     </StackPanel>
 </Window>
