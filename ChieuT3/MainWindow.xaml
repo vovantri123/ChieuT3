@@ -6,10 +6,13 @@
     xmlns:local="clr-namespace:ChieuT3"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     Title="MainWindow"
-    Width="800"
-    Height="450"
+    Width="1000"
+    Height="650"
+    Background="Aqua"
     mc:Ignorable="d">
-    <Grid>
+    <StackPanel>
         <TextBlock FontSize="190" Foreground="red">Hello</TextBlock>
-    </Grid>
+        <TextBlock FontSize="100">Xin chào mọi người</TextBlock>
+        <TextBlock FontSize="100">Tôi là Trí</TextBlock>
+    </StackPanel>
 </Window>
